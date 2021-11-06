@@ -1,0 +1,15 @@
+{
+	"name": "3-column-preview-card-component-main",
+	"version": "1.0.0",
+	"description": "![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)",
+	"main": "index.js",
+	"scripts": {
+		"dev": "sass --watch scss:css"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"sass": "^1.42.1"
+	}
+}
